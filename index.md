@@ -2,6 +2,7 @@
 These tables show, for each study, twenty topics induced from a random subset of the data: each column is a topic (the ordering is not meaningful), with the top ten words for that topic in decreasing order.  Bear in mind this is preliminary and likely not directly useful for your research yet, but serves more as a sanity check on the method and data.  For instance, the lack of Spanish vocabulary in the **hispanic\_mental\_health** study may indicate a problem with data collection, or that Hispanic communities are tweeting mostly in English, etc: something for me to look into.  Hopefully, though, the coarse meaning captured by these topic models demonstrates the potential of **unsupervised distributional semantics**, which this research project is building on.
 
 ## colonial_english
+
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |lord|covenant|were|book|king|church|their|ſhall|some|from|animal|your|water|haue|john|from|alphabet|underſtood|chriſt|have|
@@ -16,6 +17,7 @@ These tables show, for each study, twenty topics induced from a random subset of
 |god|ſhal|them|doctor|french|doctrine|part|muſt|same|fair|belly|well|then|other|county|other|etiam|maria|true|love|
 
 ## el_amarna_letters
+
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |_kur_|_disz_|mana|sza2|1aszc|gan2|1disz|_disz|1barigc|1aszc|_e2gal_|sila3|1aszc|1disz|qe2reb|szumma|nig2|i3ak|_gar|denlil2|
@@ -30,6 +32,7 @@ These tables show, for each study, twenty topics induced from a random subset of
 |_en_ia|geme2|mana_siki|d1u5disz|_saltug2_|engar|niga|hihi_|engar|usz2|_uruda_|gurusz|kur2|kusz3|gerriia|_sze_|ursag|uru2|udunita2|_ensi2_|
 
 ## black_methodists
+
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |church|charge|preacher|hate|baltimore|john|ques|georgia|with|south|mission|station|greenfield|benevolent|mission|that|supplied|quest|jackson|mission|
@@ -44,6 +47,7 @@ These tables show, for each study, twenty topics induced from a random subset of
 |north|brave|collected|25th|ames|henry|none_ques|lovejoy|preacher|richmond|colored_mission|abingdon|danville|atkinson|welsh|have|agent|been|colored|indian|
 
 ## medical_narratives
+
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |life|life|elena|then|their|cancer|their|patient|family|life|cancer|life|lindsay|patient|said|paul|first|their|death|stroke|
@@ -58,6 +62,7 @@ These tables show, for each study, twenty topics induced from a random subset of
 |pain|every|year|such|doctor|treatment|also|cell|than|long|breast|both|night|through|down|road|robert|father|le|thing|
 
 ## hispanic_mental_health
+
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |should|today|thank|black|good|think|bts_twt|trump|wall|this|youre|here|like|dont|come|time|made|california|child|please|
@@ -72,6 +77,7 @@ These tables show, for each study, twenty topics induced from a random subset of
 |fight|city|share|anything|baby|song|already|fire|lmao|about|amazing|left|follow|keep|crime|favorite|judge|party|build|move|
 
 ## covid_misinformation
+
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |your|fear|this|been|event|covid19|rate|death|will|from|more|positive|outbreak|sick|case|help|news|corona|trump|house|
@@ -86,6 +92,7 @@ These tables show, for each study, twenty topics induced from a random subset of
 |wash|human|like|result|break|information|calling|toll|back|doctor|breaking_news|second|official|morning|south_korea|social|fake|seems|administration|election|
 
 ## professional_awareness
+
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |your|they|patient|traditionally|your|program|logistics|your|university|know|your|question|hour|ampx200b|september|year|your|carib|vaccine|con|
@@ -100,6 +107,7 @@ These tables show, for each study, twenty topics induced from a random subset of
 |know|work|clinic|course|youre|health|rehearsing|make|college_medicine|people|some|group|health|morphine|medical|take|mcat|listen|credit|second_look|
 
 ## smoking_and_vaping
+
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |week|because|they|juul|year|normal|nicotine|after|nicotine|there|week|might|ampx200b|them|been|risk|when|when|year|craving|
